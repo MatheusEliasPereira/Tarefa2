@@ -39,7 +39,7 @@ Então, x_{i+1} = g(x_{i}).
 É possível, porém, que esses valores de x não convirjam. Além disso, o método encontra apenas uma solução da equação proposta (no caso de convergência).
 Caso tenha mais de uma solução, é possível implementar modificações para que o método encontre todas elas.
 
-#Resultados
+##Resultados
 
 Como mostram os gráficos, para os dois valores iniciais propostos há convergência para o ponto x tal que f(x) = x.
 Os valores de x vão se aproximando de uma constante de forma que lembra muito com o gráfico do movimento de um oscilador harmônico sub-amortecido. Minhas 
