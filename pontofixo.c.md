@@ -1,4 +1,3 @@
-```C
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
@@ -27,6 +26,3 @@ void main(int argc, char **argv)
 	
 	printf("\nRaiz = %.10g em %d iterações\n", x0, SolucaoPontoFixo(&x0, prec));	
 }
-```
-
-@thadeupenna
