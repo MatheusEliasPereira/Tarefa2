@@ -1,4 +1,3 @@
-```gnuplot
 set term pdfcairo
 set output "pontofixo075.pdf"
 set key font "Times New Roman"
@@ -19,6 +18,3 @@ set xlabel "Iterações" font "Times New Roman"
 plot "pontofixo_150.txt" u 0:1 w lp ls 1.5 pt 7 ps 0.5 lc 7 t"x_0 = 1.5"
 set point 7
 set term x11
-```
-
-@thadeupenna
