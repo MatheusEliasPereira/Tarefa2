@@ -26,6 +26,7 @@ void main(int argc, char **argv)
 	prec = atof(argv[2]);
 	
 	printf("\nRaiz = %.10g em %d iterações\n", x0, SolucaoPontoFixo(&x0, prec));	
-}```
+}
+```
 
 @thadeupenna
